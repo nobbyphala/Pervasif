@@ -4,7 +4,8 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.example.nobbyphala.testing"
+//        applicationId "com.example.nobbyphala.testing"
+        applicationId "com.silentsimfoni.sensorlist"
         minSdkVersion 18
         targetSdkVersion 26
         versionCode 1

@@ -56,4 +56,6 @@ public class Database {
     {
         dataDB.execSQL("DELETE FROM sensorLog;");
     }
+
+
 }
